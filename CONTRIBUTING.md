@@ -152,4 +152,5 @@ Check the repository's README, existing issues, and contribution
 guidelines before opening a new issue. Follow the maintainers'
 instructions and code of conduct, if one is provided.
 
+If any queries raised, then contributors can contact me - ramyahegde-109(Owner)
 Thank you for helping improve this project!
